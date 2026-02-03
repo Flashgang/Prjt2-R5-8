@@ -1,0 +1,51 @@
+title,author,category,cover,description,isbn,editor,page_count,stock,access_level
+Harry Potter 1,J.K. Rowling,Fantasy,"https://images.epagine.fr/522/9782070624522_1_75.jpg",Un garçon découvre qu'il est sorcier.,9782070541270,Gallimard,320,225,All
+Clean Code,Robert C. Martin,Informatique,"https://m.media-amazon.com/images/I/51E2055ZGUL._AC_UF1000,1000_QL80_.jpg",Pour apprendre à mieux coder.,9780132350884,Pearson,460,222,Teacher
+Le Petit Prince,Antoine de Saint-Exupéry,Classique,"https://images.leslibraires.ca/books/9782923518077/front/9782923518077_large.jpg",Un conte poétique et philosophique.,9782070612758,Gallimard,96,212,All
+1984,George Orwell,Science-Fiction,"https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_.jpg",Une dystopie totalitaire glaçante.,9782070368228,Gallimard,432,28,All
+L'Alchimiste,Paulo Coelho,Roman,"https://images.noosfere.org/couv/j/jl4120-1996.jpg",Le voyage initiatique d'un berger.,9782290033135,J'ai lu,253,76,All
+Python pour les Nuls,John Paul Mueller,Informatique,"https://m.media-amazon.com/images/I/81fHCjWRtgL._AC_UF1000,1000_QL80_.jpg",Apprendre Python facilement.,9782412058294,First,480,54,All
+Le Seigneur des Anneaux,J.R.R. Tolkien,Fantasy,"https://www.elrondslibrary.fr/wp-content/uploads/2023/11/tome-1-poche-1.jpg",L'épopée mythique de la Terre du Milieu.,9782266154345,Pocket,1216,93,All
+Sapiens,Yuval Noah Harari,Histoire,"https://m.media-amazon.com/images/I/61gvPmkGCtL._UF1000,1000_QL80_.jpg",L'histoire de l'humanité revisitée.,9782226257017,Albin Michel,512,1,All
+Design Patterns,Gang of Four,Informatique,"https://m.media-amazon.com/images/I/81IGFC6oFmL._AC_UF1000,1000_QL80_.jpg",Les patterns de conception essentiels.,9780201633610,Addison-Wesley,416,3,Teacher
+L'Étranger,Albert Camus,Classique,"https://www.gallimard-bd.fr/assets/media/cache/cover_medium/gallimard_img/image/A64518.jpg",Un roman existentialiste marquant.,9782070360024,Gallimard,186,10,Student
+Les Misérables,Victor Hugo,Classique,"https://media.hachette.fr/imgArticle/LGFLIVREDEPOCHE/2021/9782253096337-001-X.jpeg?source=web",Une fresque sociale monumentale.,9782253096337,Le Livre de Poche,1664,112,All
+The Pragmatic Programmer,Andrew Hunt,Informatique,"https://static.fnac-static.com/multimedia/Images/FR/NR/9e/59/f0/15751582/1540-1/tsp20240927094210/The-Pragmatic-Programmer-From-Journeyman-to-Master.jpg",Conseils pour devenir un meilleur développeur.,9780135957059,Addison-Wesley,352,125,Teacher
+Dune,Frank Herbert,Science-Fiction,"https://m.media-amazon.com/images/I/81zN7udGRUL._AC_UF1000,1000_QL80_.jpg",Une saga spatiale culte.,9782266320481,Pocket,928,14,All
+La Peste,Albert Camus,Classique,"https://static.fnac-static.com/multimedia/PE/Images/FR/NR/2d/f9/01/129325/1507-1/tsp20251018080450/La-Peste.jpg",Chronique d'une épidémie à Oran.,9782070360420,Gallimard,279,6,Student
+JavaScript: The Good Parts,Douglas Crockford,Informatique,"https://m.media-amazon.com/images/I/5131OWtQRaL._AC_UF1000,1000_QL80_.jpg",Les bonnes pratiques JavaScript.,9780596517748,O'Reilly,176,178,All
+Le Comte de Monte-Cristo,Alexandre Dumas,Classique,"https://media.hachette.fr/imgArticle/LIVREDEPOCHEJEUNESSE/2015/9782012031708-X.jpg?source=web",Une vengeance légendaire.,9782253098058,Le Livre de Poche,1376,93,All
+Fondation,Isaac Asimov,Science-Fiction,"https://m.media-amazon.com/images/I/91dSMhdIzTL._AC_UF1000,1000_QL80_.jpg",L'avenir de la galaxie en jeu.,9782070415700,Gallimard,281,75,All
+Orgueil et Préjugés,Jane Austen,Romance,"https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",Une histoire d'amour intemporelle.,9782253049401,Le Livre de Poche,544,37,All
+Introduction to Algorithms,Cormen et al.,Informatique,"https://m.media-amazon.com/images/I/61Pgdn8Ys-L._AC_UF1000,1000_QL80_.jpg",La référence en algorithmique.,9780262033848,MIT Press,1312,82,Teacher
+Le Parfum,Patrick Süskind,Roman,"https://img.livraddict.com/covers/0/213/couv23568892.jpg",L'histoire d'un génie meurtrier.,9782253051916,Le Livre de Poche,320,60,All
+Neuromancien,William Gibson,Science-Fiction,"https://images.noosfere.org/couv/j/jl2325-2008.jpg",Le roman fondateur du cyberpunk.,9782290099629,J'ai lu,319,47,All
+Refactoring,Martin Fowler,Informatique,"https://m.media-amazon.com/images/I/51ttgxwzArL._AC_UF1000,1000_QL80_.jpg",Améliorer le design du code existant.,9780134757599,Addison-Wesley,448,38,Teacher
+Cent ans de solitude,Gabriel García Márquez,Roman,"https://static.fnac-static.com/multimedia/PE/Images/FR/NR/d6/8c/02/167126/1540-1/tsp20250429082246/Cent-ans-de-solitude.jpg",Le chef-d'œuvre du réalisme magique.,9782757803707,Points,496,55,All
+Les Fleurs du Mal,Charles Baudelaire,Poésie,"https://images.epagine.fr/661/9782070307661_1_75.jpg",Recueil poétique révolutionnaire.,9782253005322,Le Livre de Poche,416,68,Student
+Le Vieil Homme et la Mer,Ernest Hemingway,Classique,"https://images.epagine.fr/392/9782072700392_1_75.jpg",Combat d'un pêcheur avec un marlin.,9782070360864,Gallimard,140,79,All
+Database Systems,Ramez Elmasri,Informatique,"https://servimg.eyrolles.com/static/media/5066/9780321415066_internet_h1400.jpg",Comprendre les bases de données.,9780133970777,Pearson,1272,92,Teacher
+Notre-Dame de Paris,Victor Hugo,Classique,"https://www.recyclivre.com/media/cache/sylius_shop_product_original/c0/81/9f4784a9e03f7c4ae680ccb1b768.jpg",L'histoire de Quasimodo.,9782253002864,Le Livre de Poche,736,41,All
+Le Hobbit,J.R.R. Tolkien,Fantasy,"https://images.epagine.fr/124/9782266342124_1_75.jpg",L'aventure de Bilbo Sacquet.,9782266154291,Pocket,384,6,All
+Crime et Châtiment,Fiodor Dostoïevski,Classique,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3wMK5sIALfjMmgVBppzywG1XqMCj0s3IeA&s",Un crime et ses conséquences morales.,9782253072201,Le Livre de Poche,720,3,Student
+React Up & Running,Stoyan Stefanov,Informatique,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ruAvsgPz1SH1nQPMgywBV64uoi0AroHcxg&s",Maîtriser React rapidement.,9781491931820,O'Reilly,256,78,All
+La Métamorphose,Franz Kafka,Classique,"https://media.hachette.fr/fit-in/500x500/imgArticle/LGFLIVREDEPOCHE/2024/9782253248569-001-X.jpeg?source=web",Gregor Samsa se réveille transformé.,9782253004233,Le Livre de Poche,192,10,Student
+Fahrenheit 451,Ray Bradbury,Science-Fiction,"https://m.media-amazon.com/images/I/71OFqSRFDgL._AC_UF1000,1000_QL80_.jpg",Dans un monde où les livres sont interdits.,9782072762017,Gallimard,256,105,All
+Les Trois Mousquetaires,Alexandre Dumas,Aventure,"https://images.epagine.fr/322/9782070631322_1_75.jpg",Les aventures de d'Artagnan.,9782253006886,Le Livre de Poche,832,34,All
+Artificial Intelligence,Stuart Russell,Informatique,"https://pictures.abebooks.com/isbn/9780132071482-fr.jpg",L'approche moderne de l'IA.,9780134610993,Pearson,1136,1,Teacher
+Le Rouge et le Noir,Stendhal,Classique,"https://static.fnac-static.com/multimedia/PE/Images/FR/NR/3c/c9/03/248124/1507-1/tsp20251023081531/Le-Rouge-et-le-noir-Nouvelle-edition.jpg",L'ascension de Julien Sorel.,9782253004103,Le Livre de Poche,576,66,Student
+Brave New World,Aldous Huxley,Science-Fiction,"https://images.epagine.fr/464/9780099477464_1_75.jpg",Dystopie d'une société parfaite.,9782266128568,Pocket,288,72,All
+Anna Karénine,Léon Tolstoï,Classique,"https://www.letournepage.com/wp-content/uploads/2017/02/51oCNTbhJaL._SX307_BO1204203200_.jpg",Le destin tragique d'une femme.,9782253098416,Le Livre de Poche,1024,22,Student
+Computer Networks,Andrew Tanenbaum,Informatique,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4tGLuTZoxA1NxujxFInExVOkJcyz-lOp_A&s",Les réseaux informatiques expliqués.,9780132126953,Pearson,960,33,Teacher
+Madame Bovary,Gustave Flaubert,Classique,"https://www.livrenpoche.com/cdn/shop/files/0445933.jpg?v=1743355475",L'histoire d'Emma Bovary.,9782253004158,Le Livre de Poche,544,87,Student
+La Nuit des Temps,René Barjavel,Science-Fiction,"https://images.epagine.fr/919/9782266230919_1_75.jpg",Une histoire d'amour à travers les âges.,9782266009034,Pocket,384,5,All
+Dracula,Bram Stoker,Horreur,"https://media.hachette.fr/imgArticle/LGFLIVREDEPOCHE/2025/9782253023388-001-X.jpeg?source=web&v=c54f2e05edb4c298f68f20ae7103fb82",Le vampire légendaire de Transylvanie.,9782253006732,Le Livre de Poche,576,6,All
+Operating Systems,William Stallings,Informatique,"https://www.pearsoned.co.in/web/Handler/ThumbnailImage.ashx?size=195&imgpath=/web/BookImages/9789352866717B.jpg",Comprendre les systèmes d'exploitation.,9780134670959,Pearson,816,2,Teacher
+Jane Eyre,Charlotte Brontë,Romance,"https://media.hachette.fr/fit-in/780x1280/imgArticle/LGFLIVREDEPOCHE/2020/9782253004356-001-X.jpeg?source=web",Le parcours d'une gouvernante.,9782253004011,Le Livre de Poche,640,7,All
+Le Meilleur des Mondes,Aldous Huxley,Science-Fiction,"https://images.epagine.fr/038/9782266283038_1_75.jpg",Une société ultra-contrôlée.,9782266212502,Pocket,288,4,All
+Docker Deep Dive,Nigel Poulton,Informatique,"https://d2sofvawe08yqg.cloudfront.net/dockerenprofundidad/s_featured2x?1689242615&1689242615",Plonger dans Docker.,9781521822807,Auto-édité,280,5,All
+Les Hauts de Hurlevent,Emily Brontë,Romance,"https://media.hachette.fr/imgArticle/LGFLIVREDEPOCHE/2021/9782253004752-001-X.jpeg?source=web&v=a0127604a2b29d69bd78f579a4c166c5",Une passion destructrice.,9782253004165,Le Livre de Poche,416,6,All
+La Guerre des Mondes,H.G. Wells,Science-Fiction,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQopF4ali1hUQOrf98F1m7E55hm5gTbmYlQfw&s",L'invasion martienne de la Terre.,9782253006770,Le Livre de Poche,256,8,All
+Kubernetes in Action,Marko Luksa,Informatique,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-ATG7leH3IlhWpaUPk3ZCakxVsKg_JGZHw&s",Déployer avec Kubernetes.,9781617293726,Manning,624,3,Teacher
+Germinal,Émile Zola,Classique,"https://images.epagine.fr/142/9782253094142_1_75.jpg",La vie des mineurs au XIXe siècle.,9782253004226,Le Livre de Poche,592,5,Student
+Le Dernier Jour d'un Condamné,Victor Hugo,Classique,"https://media.hachette.fr/imgArticle/LGFLIVREDEPOCHE/2021/9782253050063-001-X.jpeg?source=web&v=3f785051dd96b3b1673918cd9950551f",Les dernières heures d'un condamné.,9782253006961,Le Livre de Poche,160,9,All

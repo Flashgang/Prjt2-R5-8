@@ -1,0 +1,41 @@
+services:
+  # --- BACKEND (DJANGO) ---
+  web:
+    build: .
+    command: /app/entrypoint.sh
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+    environment:
+      - DB_NAME=bibliotheque
+      - DB_USER=biblio_user
+      - DB_PASSWORD=biblio_password
+      - DB_HOST=db
+
+  # --- FRONTEND (REACT) ---
+  frontend:
+    build: ../Library-app  
+    volumes:
+      - ../Library-app/src:/app/src  
+    ports:
+      - 5173:5173
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - web  # Attend que le backend démarre
+
+  # --- BASE DE DONNÉES (POSTGRESQL) ---
+  db:
+    image: postgres:16
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=bibliotheque
+      - POSTGRES_USER=biblio_user
+      - POSTGRES_PASSWORD=biblio_password
+
+volumes:
+  postgres_data:
