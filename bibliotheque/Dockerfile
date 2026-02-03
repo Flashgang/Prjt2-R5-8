@@ -8,6 +8,15 @@ ENV PYTHONUNBUFFERED 1
 # Dossier de travail dans le conteneur
 WORKDIR /app
 
+# Installer dos2unix
+RUN apt-get update && apt-get install -y dos2unix
+
+# Copier le script
+COPY entrypoint.sh /entrypoint.sh
+
+# FORCER la conversion en format Linux et donner les droits
+RUN dos2unix /entrypoint.sh && chmod +x /entrypoint.sh
+
 # Installer les dépendances système pour Postgres
 RUN apt-get update && apt-get install -y \
     gcc \
